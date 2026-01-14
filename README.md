@@ -1,7 +1,5 @@
 # Keylogger Simulation Toolkit
 
-> A PowerShell-based keylogger designed for **educational** and **cybersecurity awareness** purposes only.
-
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/Keylogger-Simulation.git
